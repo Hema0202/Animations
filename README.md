@@ -1,4 +1,4 @@
-# Animations [click me]{https://hema0202.github.io/Animations/}
+# Animations [click me](https://hema0202.github.io/Animations/)
 
 ## About
 ```
